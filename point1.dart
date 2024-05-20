@@ -6,5 +6,6 @@ void main() {
   String item = "Peach Malt";
   print(productName);
   print(item);
-  print(item);
+  String name = "sandhu";
+  print(name);
 }
