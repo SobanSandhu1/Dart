@@ -147,7 +147,6 @@ void main() {
   // }
   int? res = squareofsum(4, 3);
   print('Square of Sum is $res');
-  int n;
 }
 
 int? squareofsum(int a, int b) {
