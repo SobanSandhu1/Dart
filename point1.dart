@@ -3,6 +3,5 @@ import 'dart:core';
 
 void main() {
   String productName = 'ASP.Net MVC';
-  String item = "Peach Malt";
   print(productName);
 }
