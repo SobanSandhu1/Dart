@@ -17,6 +17,10 @@ void main() {
         print('Welcome User');
         break;
       }
+    case 3:
+      {
+        break;
+      }
     default:
       {
         print('Access Denied');
